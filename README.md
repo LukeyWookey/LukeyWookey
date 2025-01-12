@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=7100F7&width=435&lines=Haiii+:3+%3AD;%E3%82%B8%E3%83%BB%E3%82%B9%E3%83%BB%E3%83%91%E3%83%83%E3%83%88)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=7100F7&width=435&lines=Haiii+:3;%E3%82%B8%E3%83%BB%E3%82%B9%E3%83%BB%E3%83%91%E3%83%83%E3%83%88)](https://git.io/typing-svg)
   
 - 🖥️ I'm currently trying to learn programming languages
 

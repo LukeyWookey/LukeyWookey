@@ -17,6 +17,7 @@ but i also
 Am currently usin and learnin the followin
 
 [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md/)
+&nbsp;
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
 &nbsp;
 [![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/)
@@ -24,7 +25,6 @@ Am currently usin and learnin the followin
 [![CSS](https://skillicons.dev/icons?i=css)](https://w3schools.com/css/)
 &nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://javascript.com/)
-&nbsp;
 
 ---
 ## To learn
@@ -35,7 +35,9 @@ Here some stuff I wish to learn in da future
 [![PHP](https://skillicons.dev/icons?i=php)](https://php.net/)
 &nbsp;
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
+&nbsp;
 [![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
+
 ---
 
 

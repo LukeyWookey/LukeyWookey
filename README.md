@@ -12,6 +12,10 @@ but i also
 
 - and mostly play Minecraft :D ![frog1](https://cdn.discordapp.com/emojis/1286714007205576714.webp?size=20&animated=true)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LukeyWookey/LukeyWookey/master/lowpoly_bl%C3%A5haj.gif" alt="blahaj :3">
+</p>
+
 ---
 
 *emojis by Sinuuki, not by me*

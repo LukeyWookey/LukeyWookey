@@ -1,47 +1,27 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=f5bde6&width=435&lines=Haiii+:3;%E3%82%B8%E3%83%BB%E3%82%B9%E3%83%BB%E3%83%91%E3%83%83%E3%83%88)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=500&color=f5bde6&width=435&lines=Haiii+:3;%E3%82%B8%E3%83%BB%E3%82%B9%E3%83%BB%E3%83%91%E3%83%83%E3%83%88)](https://git.io/typing-svg)
 ---
-## About me
-am just a siwwy lil guy :3
+## About me or somethin
+am just a siwwy lil cat :3 ![rollinscrog](https://cdn.discordapp.com/emojis/1352691072538771568.webp?size=20&animated=true)
 
 but i also
-- am currently learning some programming languages
+- love codin ![tehe](https://cdn.discordapp.com/emojis/1352674880973312113.webp?size=20)
 
-- enjoy making textures and sprites :3
+- enjoy making textures and sprites :3 ![sillyfrog](https://cdn.discordapp.com/emojis/1279664159218208840.webp?size=20&animated=true)
 
-- speak English
+- speak English ig ? ![frogchaos](https://cdn.discordapp.com/emojis/1201136572452581476.webp?size=20)
 
-- and mostly play Minecraft :D
-
----
-## Learnin
-Am currently usin and learnin the followin
-
-[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md/)
-&nbsp;
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
-&nbsp;
-[![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/)
-&nbsp;
-[![CSS](https://skillicons.dev/icons?i=css)](https://w3schools.com/css/)
-&nbsp;
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://javascript.com/)
-
----
-## To learn
-Here some stuff I wish to learn in da future
-
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
-&nbsp;
-[![PHP](https://skillicons.dev/icons?i=php)](https://php.net/)
-&nbsp;
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
-&nbsp;
-[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
+- and mostly play Minecraft :D ![frog1](https://cdn.discordapp.com/emojis/1286714007205576714.webp?size=20&animated=true)
 
 ---
 
+*emojis by Sinuuki, not by me*
+
+---
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=500&color=f5bde6&width=435&lines=Byeee+:D;%E3%83%BE%28%E3%83%BB%CF%89%E3%83%BB%2A%29)](https://git.io/typing-svg)
 
 <!---
 LukeyWookey/LukeyWookey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+ya i ain't removin this heheheh
 --->
